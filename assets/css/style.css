@@ -5,5 +5,7 @@
     grid-template-areas:
         "cabecalho"
         "conteudo"
-        "rodape";    
-}
+        "rodape";
+    grid-template-columns: auto;
+    grid-template-rows: 50px auto auto;    
+}   
