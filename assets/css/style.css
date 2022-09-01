@@ -9,3 +9,15 @@
     grid-template-columns: auto;
     grid-template-rows: 50px auto auto;    
 }   
+
+.cabecalho {
+    background: #00cc99;
+}
+
+.conteudo {
+    background: #ff8080;
+}
+
+.rodape {
+    background: #0099ff;
+}
