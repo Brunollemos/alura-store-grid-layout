@@ -19,13 +19,16 @@
     grid-row-end: 3;*/
 }
 
-.destaques__secundario:nth-child(2) {    
-    background-image: url(../img/pubg.jpg);
+.destaques__secundario:nth-child(2) {
+    background: url(../img/pubg.jpg) center / cover no-repeat;
+    /*background-image: url(../img/pubg.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;    
-    grid-column-start: 4;
+    background-size: cover;*/
+    grid-column: 4/4;
+    grid-row: 1/1;    
+    /*grid-column-start: 4;
     grid-column-end: 4;
     grid-row-start: 1;
-    grid-row-end: 1;
+    grid-row-end: 1;*/
 }
