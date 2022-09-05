@@ -44,3 +44,9 @@
     grid-column: 4/4;
     grid-row: 3/3;
 }
+
+.destaques__secundario:nth-child(5) {
+    background: url(../img/cs-go.jpg) center / cover no-repeat;
+    grid-column: 3/3;
+    grid-row: 3/3;
+}
