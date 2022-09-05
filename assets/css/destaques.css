@@ -7,13 +7,13 @@
 
 .destaques__principal {    
     background: url(../img/fortnite.jpg) center / cover no-repeat;
+    grid-column: 1/4;
+    grid-row: 1/3;
     /*background-image: url(../img/fortnite.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;*/
-    grid-column: 1/4;
-    grid-row: 1/3;
-    /*grid-column-start: 1;
+    background-size: cover;   
+    grid-column-start: 1;
     grid-column-end: 4;
     grid-row-start: 1;
     grid-row-end: 3;*/
@@ -21,13 +21,13 @@
 
 .destaques__secundario:nth-child(2) {
     background: url(../img/pubg.jpg) center / cover no-repeat;
+    grid-column: 4/4;
+    grid-row: 1/1;  
     /*background-image: url(../img/pubg.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;*/
-    grid-column: 4/4;
-    grid-row: 1/1;    
-    /*grid-column-start: 4;
+    background-size: cover;      
+    grid-column-start: 4;
     grid-column-end: 4;
     grid-row-start: 1;
     grid-row-end: 1;*/
