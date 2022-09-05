@@ -58,3 +58,7 @@
 .populares__titulo {
     font-weight: 500;
 }
+
+.populares__icone {
+    margin-right: .25rem;
+}
