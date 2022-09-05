@@ -76,3 +76,11 @@
 .destaques__categorias___link {
     color: inherit;
 }
+
+.destaques__titulo {
+    background: rgba(0, 0, 0, .5);
+    color: #fdfdfd;
+    padding: .6rem;
+    text-align: center;
+    width: 100%;
+}
